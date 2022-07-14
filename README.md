@@ -16,7 +16,7 @@ Notebook overview(Please excuse some of the typos in my notebook.)
 3)Modeling
 - I am using lightgbm with the default parameters
 
-4) Lastlty
+4) Lastly
 - I left some TODOs(what I wanted to improve upon)
 - The TODOs that are  markdowns are the most important things that I felt I needed to do.
 - The markdowns as comments are the problems I have solved or are minor issues
