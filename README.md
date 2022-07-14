@@ -17,7 +17,7 @@ Hello this is my solution to the alvin smart money prediction challenge. I reall
 ## 2) Basic EDA
 
 
-- I say "basic EDA" but it is fairly robust in terms of the features I thought of(at least I according to me).
+- I say "basic EDA" but it is fairly robust in terms of the features I thought of(at least according to me).
 
 
 
