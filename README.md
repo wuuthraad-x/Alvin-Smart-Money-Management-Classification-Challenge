@@ -13,7 +13,7 @@ Notebook overview(Please excuse some of the typos in my notebook.)
 2) Basic EDA
 - I say "basic EDA" but it is fairly robust in terms of the features I thought of(at least I according to me).
 
-3)Modeling
+3) Modeling
 - I am using lightgbm with the default parameters
 
 4) Lastly
