@@ -33,4 +33,4 @@ Hello this is my solution to the alvin smart money prediction challenge. I reall
 
 - I left some TODOs(what I wanted to improve upon)
 - The TODOs that are  markdowns are the most important things that I felt I needed to do.
-- The markdowns as comments are the problems I have solved or are minor issues
+- The TODOs as comments are the problems I have solved or are minor issues
