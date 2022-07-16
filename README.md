@@ -18,7 +18,7 @@ Hello this is my solution to the alvin smart money prediction challenge. I reall
 
 
 - I say "basic EDA" but it is fairly robust in terms of the features I thought of(at least according to me).
-- I used the spacy model to get the enitity from the 'MERCHANT_NAME' column. It returns whether the value in 'MERCHANT_NAME' is an ORG(Orginization) or PERSON. using after using .label_
+- I used the spacy model to get the enitity from the 'MERCHANT_NAME' column. It returns whether the value in 'MERCHANT_NAME' is an ORG(Orginization) or PERSON. using after using .label_ to get more out of the 'MERCHANT_NAME' column as opposed to just label encoding them. 
 
 
 ## 3) Modeling
